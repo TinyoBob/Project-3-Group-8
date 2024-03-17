@@ -3,15 +3,15 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2022
+Term: Spring 2024
 
-+ Team ##
++ Team 8
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Xia, Tianyi (Presenter)
+	+ An, Qu Fei
+	+ Guo, Yicheng
+	+ Lin, Hongxu
+	+ Auld-Griffith, Nicolette
 
 + Project summary: In this project, we created ...
 	
