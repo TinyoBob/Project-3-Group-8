@@ -20,7 +20,7 @@ In this project, we utilized a CNN model to address the noisy label dataset. Whi
 Following experimentation with these techniques, we found that the GAP method yielded the most promising results in noise reduction. Leveraging GAP, our model attained 0.44 accuracy on the noisy label dataset, closely resembling the performance on the clean label dataset. Consequently, we identify GAP as an effective noise reduction approach, enhancing model performance on noisy datasets and offering a viable solution to similar challenges.
 	
 **Contribution statement**: 
-+ Xia, Tianyi (Presenter) contributed to the team by completing the coding and debugging for Model 1, tuning and adjusting parameters for Model 2, plotting test set results, and organizing the PowerPoint presentation, as well as delivering the speech.
++ Xia, Tianyi (Presenter) contributed to the team by completing the coding and debugging for Model 1, tuning and adjusting parameters for Model 2 which is created by Hongxu and Nicolette, plotting and outputting test set results, and organizing the PowerPoint presentation which is created by Qu Fei and Yicheng, as well as delivering the speech.
 + An, Qu Fei
 + Guo, Yicheng
 + Lin, Hongxu is responsible for three models in model2 part. 
