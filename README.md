@@ -23,7 +23,7 @@ Following experimentation with these techniques, we found that the GAP method yi
 + Xia, Tianyi (Presenter):
 + An, Qu Fei
 + Guo, Yicheng
-+ Lin, Hongxu
++ Lin, Hongxu is responsible for three models in model2 part. 
 + Auld-Griffith, Nicolette
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
