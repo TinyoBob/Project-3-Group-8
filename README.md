@@ -13,9 +13,18 @@ Term: Spring 2024
 	+ Lin, Hongxu
 	+ Auld-Griffith, Nicolette
 
-+ Project summary: In this project, we created ...
+### Project Summary
+
+In this project, we utilized a CNN model to address the noisy label dataset. While achieving 0.48 accuracy on the clean label dataset, we explored several noise reduction methods including Global Average Pooling (GAP), Robust Loss, and Noise Layer.
+
+Following experimentation with these techniques, we found that the GAP method yielded the most promising results in noise reduction. Leveraging GAP, our model attained 0.44 accuracy on the noisy label dataset, closely resembling the performance on the clean label dataset. Consequently, we identify GAP as an effective noise reduction approach, enhancing model performance on noisy datasets and offering a viable solution to similar challenges.
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: 
++ Xia, Tianyi (Presenter):
++ An, Qu Fei
++ Guo, Yicheng
++ Lin, Hongxu
++ Auld-Griffith, Nicolette
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
