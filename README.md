@@ -22,7 +22,7 @@ Following experimentation with these techniques, we found that the GAP method yi
 **Contribution statement**: 
 + Xia, Tianyi (Presenter) contributed to the team by completing the coding and debugging for Model 1, tuning and adjusting parameters for Model 2 which is created by Hongxu and Nicolette, plotting and outputting test set results, and organizing the PowerPoint presentation which is created by Qu Fei and Yicheng, as well as delivering the speech.
 + An, Qu Fei contributed to the presentation by creating the powerpoint. Researched the explanations for the different CNN layers as well as their real life applications. The presentation is refined by Tianyi and presented.
-+ Guo, Yicheng
++ Guo, Yicheng contributed to the presentation by creating the powerpoint. Researched the explanations for the different CNN layers as well as their real life applications. The presentation is refined by Tianyi and presented.
 + Lin, Hongxu is responsible for three models robust loss，noise layer and noise label in model2 part based on Model1，created by Tianyi Xia. 
 + Auld-Griffith, Nicolette organized group meetings for Group 8 and coded Model 2 GAP part based on Model 1, created by Tianyi Xia. After researching the best methods of weakly supervised learning for CNNs, Nicolette decided a global average pooling would help in image classification and based Model 2 on this method. 
 
